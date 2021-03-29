@@ -16,7 +16,7 @@ lxml==4.4.2
 pathlib2==2.3.5
 pickleshare==0.7.5
 prompt-toolkit==1.0.18
-Pygments==2.5.2
+Pygments==2.7.4
 python2==1.2
 requests==2.22.0
 scandir==1.10.0

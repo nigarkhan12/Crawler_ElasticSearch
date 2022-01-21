@@ -10,7 +10,7 @@ elasticsearch==6.2.0
 enum34==1.1.6
 idna==2.8
 ipdb==0.12.3
-ipython==5.8.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 lxml==4.4.2
 pathlib2==2.3.5
